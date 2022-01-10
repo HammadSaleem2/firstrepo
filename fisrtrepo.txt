@@ -1,1 +1,2 @@
 This is my first repo
+We are in git101 session and are learning are lot.
